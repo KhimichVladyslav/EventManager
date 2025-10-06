@@ -1,0 +1,10 @@
+django>=5.2.7
+djangorestframework
+django-filter
+drf-yasg
+psycopg2-binary
+djangorestframework-simplejwt>=5.5.1
+gunicorn>=23.0.0
+pytest
+pytest-django
+dotenv

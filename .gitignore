@@ -1,0 +1,11 @@
+.py[cod]
+__pycache__/
+__pypackages__/
+.mypy_cache/
+.pytest_cache/
+.python-version
+.ruff_cache/
+.pdm-python
+.env
+.f
+.idea
